@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+body,div,h1,h2,h3,header,nav,footer,section,ul,li,a,span,p,img,button,address,select,option,optgroup,option,
+dl,dt,dd,strong{margin:0;padding:0;}
+img,video{border:none;}
+a{text-decoration: none;}
+ul,li{list-style-type: none;}
+
+body,input,button{font-family: 'Lora','Noto Sans KR',sans-serif;color:#3b312f;font-size:16px;font-weight: 400;}
+
+header,section,article,nav,footer{display: block;}
+
+a:link,a:visited{text-decoration: none;color:#3b312f;}
+
+a:hover,a:active,a:focus{text-decoration: none;}
+
+input,button,img{vertical-align: middle;}
+
